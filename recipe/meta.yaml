@@ -17,11 +17,11 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.8
+    - python >=3.9
     - setuptools
     - pytest
   run:
-    - python >=3.8
+    - python >=3.9
     - typing_extensions >3.10.0.2
 
 test:
